@@ -1,0 +1,1 @@
+package com.example.mypet;public class direccion {public static final String DIRECCION_IP ="192.168.1.64";}
